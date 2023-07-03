@@ -6,7 +6,9 @@
 def pascal_triangle(n):
     pascalt = []
 
-    if n > 0:
+    if n <= 0:
+        return pascalt
+    if else:
         for i in range(n):
             row = []
             for j in range(i + 1):
