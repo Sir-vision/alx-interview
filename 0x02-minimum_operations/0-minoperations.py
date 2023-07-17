@@ -3,11 +3,11 @@
 
 """
     The letter H is the only character in a text file.
-    There are only two operations that your text editor can do on 
-	this file: Copy All and Paste. Write a method that calculates 
-	given a number n.
-    the least amount of processes necessary to produce exactly 
-	n H characters in the file.
+    There are only two operations that your text editor can do on
+    this file: Copy All and Paste. Write a method that calculates
+    given a number n.
+    the least amount of processes necessary to produce exactly
+    n H characters in the file.
 """
 
 
